@@ -84,7 +84,7 @@ body {
 }
 
 .welcome {
-	font-family: 'Code', sans-serif;
+	/*font-family: 'Code', sans-serif;*/
 	text-align: center;
 	position: absolute;
 	top: 50%;
